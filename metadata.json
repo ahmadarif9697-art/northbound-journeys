@@ -1,0 +1,6 @@
+{
+  "name": "Northbound Journeys",
+  "description": "Luxury Himalayan travel and bespoke expedition portfolio concept by SA Crown Web Design.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
